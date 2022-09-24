@@ -15,3 +15,6 @@ The aggregated view part should be straightforward, and show the different teams
 
 You don't need to do it for all your services, as it can be too much work. Focus on what you believe are your most important ones.
 
+Template created in Google Sheets: https://docs.google.com/spreadsheets/d/1S7EWIsP1HM_8UdH-HnmDYrcw4HGEyUkr7USKygThsmA
+
+That's a starting point. Feel free to use another tool, and/or to tweak the tech health aspects for your discussions. And I hope this brings you some value!
