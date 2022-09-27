@@ -18,3 +18,6 @@ You don't need to do it for all your services, as it can be too much work. Focus
 Template created in Google Sheets: https://docs.google.com/spreadsheets/d/1S7EWIsP1HM_8UdH-HnmDYrcw4HGEyUkr7USKygThsmA
 
 Adapt it to your context and needs, and Godspeed!
+
+# License
+This project is distributed under the [MIT License.](LICENSE)
